@@ -1,6 +1,6 @@
 # Kuriimu
 
-![Logo](https://github.com/IcySon55/Kuriimu/blob/master/Kuriimu/images/btn-editor.png)
+一个很实用的 3DS 文件处理工具，适合 3DS 游戏汉化，推荐。
 
 A general purpose game translation toolkit for authors of fan translations.
 
